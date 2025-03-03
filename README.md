@@ -1,16 +1,40 @@
-# flutter_application_2
+# Flutter Quick Cook
 
-A new Flutter project.
+Flutter Quick Cook is an application for finding and suggesting quick recipes based on available ingredients. Developed using Flutter, it supports both Android and iOS.
 
-## Getting Started
+## 🔥 Key Features
+- Search for recipes using available ingredients
+- Get quick meal suggestions
+- View detailed recipe instructions, including ingredients and cooking steps
+- User-friendly and responsive UI
 
-This project is a starting point for a Flutter application.
+## 🛠 Technologies Used
+- **Flutter**: Primary framework for app development
+- **Dart**: Programming language used in Flutter
+- **API Integration**: Fetch recipe data via APIs
+- **Patumma LLM**: Generative AI Integration API
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Installation & Usage
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/itzdeenzxx/flutter-quick-cook.git
+   cd flutter-quick-cook
+   ```
+2. **Install Dependencies**
+   ```sh
+   flutter pub get
+   ```
+3. **Run the Application**
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+_(Comming Soon)_
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📝 License
+This project is licensed under the [LICENSE](https://github.com/itzdeenzxx)
+
+## 📩 Contact
+For questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/itzdeenzxx/flutter-quick-cook/issues) or email the developer.
+
